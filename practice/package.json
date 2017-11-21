@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/haojiayimai/electron-learing/issues"
   },
-  "homepage": "https://github.com/haojiayimai/electron-learing#readme"
+  "homepage": "https://github.com/haojiayimai/electron-learing#readme",
+  "devDependencies": {
+    "electron": "^1.7.9"
+  }
 }
