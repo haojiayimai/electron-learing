@@ -1,0 +1,14 @@
+{
+  "name": "browserview",
+  "version": "1.0.0",
+  "description": "learn how to use BrowserView",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "BrowserView"
+  ],
+  "author": "Atom Hao",
+  "license": "ISC"
+}
