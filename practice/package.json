@@ -1,0 +1,22 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "learn how to build a electron app",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haojiayimai/electron-learing.git"
+  },
+  "keywords": [
+    "electron;"
+  ],
+  "author": "haojiayimai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haojiayimai/electron-learing/issues"
+  },
+  "homepage": "https://github.com/haojiayimai/electron-learing#readme"
+}
