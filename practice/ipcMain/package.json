@@ -1,0 +1,14 @@
+{
+  "name": "ipcmain",
+  "version": "1.0.0",
+  "description": "how to use the ipcMain",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "ipcMain"
+  ],
+  "author": "Atom Hao",
+  "license": "ISC"
+}
