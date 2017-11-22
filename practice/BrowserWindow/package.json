@@ -1,0 +1,14 @@
+{
+  "name": "browserwindow",
+  "version": "1.0.0",
+  "description": "learn how to use BrowserWindow",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "BrowserWindow"
+  ],
+  "author": "Atom Hao",
+  "license": "ISC"
+}
