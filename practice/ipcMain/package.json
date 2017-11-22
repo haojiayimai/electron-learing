@@ -10,5 +10,8 @@
     "ipcMain"
   ],
   "author": "Atom Hao",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "1.7.9"
+  }
 }
