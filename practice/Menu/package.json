@@ -1,0 +1,17 @@
+{
+  "name": "menu",
+  "version": "1.0.0",
+  "description": "how to use the electron Menu",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Menu"
+  ],
+  "author": "Atom Hao",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "1.7.9"
+  }
+}
