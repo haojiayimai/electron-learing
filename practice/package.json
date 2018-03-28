@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/haojiayimai/electron-learing#readme",
   "devDependencies": {
-    "electron": "^1.7.9"
+    "electron": "1.8.2-beta5"
   }
 }
