@@ -5,8 +5,8 @@ const url = require('url')
 let win
 function createWindow() {
 	win = new BrowserWindow({
-		'autoHideMenuBar': true,
-		kiosk: true
+		'autoHideMenuBar': false,
+		kiosk: false
 	})
 	win.loadURL(url.format({
 		pathname: path.join(__dirname, 'index.html'),
